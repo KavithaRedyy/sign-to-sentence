@@ -1,6 +1,9 @@
-ultralytics
-opencv-python
 streamlit
-playsound==1.2.2
+ultralytics
+opencv-python-headless
 mediapipe==0.10.9
 edge-tts
+torch
+torchvision
+torchaudio
+
