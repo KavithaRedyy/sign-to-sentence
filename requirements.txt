@@ -3,10 +3,11 @@ mediapipe==0.10.32
 opencv-python-headless
 playsound==1.2.2
 ultralytics
-rich==14.3.2
+rich==13.7.0
 markdown-it-py==4.0.0
 mdurl==0.1.2
 pygments==2.19.2
+
 
 
 
