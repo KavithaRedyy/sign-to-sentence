@@ -1,0 +1,6 @@
+ultralytics
+opencv-python
+streamlit 
+playsound==1.2.2
+mediapipe
+edge-tts
