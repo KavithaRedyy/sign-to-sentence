@@ -1,14 +1,14 @@
 streamlit==1.29.0
-rich==14.3.2
+rich==13.3.2      # must be <14 to match Streamlit 1.29.0
 pygments==2.19.2
 markdown-it-py==4.0.0
 mdurl==0.1.2
 ultralytics
 opencv-python-headless
 mediapipe==0.10.9
+playsound==1.2.2
 edge-tts
-torch
-torchvision
-torchaudio
+
+
 
 
