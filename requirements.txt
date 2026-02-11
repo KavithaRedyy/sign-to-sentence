@@ -1,4 +1,8 @@
-streamlit
+streamlit==1.29.0
+rich==14.3.2
+pygments==2.19.2
+markdown-it-py==4.0.0
+mdurl==0.1.2
 ultralytics
 opencv-python-headless
 mediapipe==0.10.9
@@ -6,4 +10,5 @@ edge-tts
 torch
 torchvision
 torchaudio
+
 
