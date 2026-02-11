@@ -1,6 +1,6 @@
 ultralytics
 opencv-python
-streamlit 
+streamlit
 playsound==1.2.2
-mediapipe
+mediapipe==0.10.9
 edge-tts
